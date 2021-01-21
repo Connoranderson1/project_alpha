@@ -1,17 +1,39 @@
 // Style time
 
 
+
 body {
     font-family: Arial;
-    background-color: White;
+    background-color: lightgray;
 }
 
 button {
-    background-color: black;
-    padding: 2px 2 px;
+    background-color: blue;
+    padding: 12px 0px;
+    font-size: 45px;
 }
 
 #results {
     font-family: Arial;
     font-size: Small;
 }
+
+h1 {
+    text-align: left;
+    font-size: 60pt;
+    font-family: "Times New Roman";
+}
+
+#height {
+    text-align: center;
+    padding: 20px 0px;
+    font-size: 20px;
+    background-color: white;
+  }
+
+#weight {
+    text-align: center;
+    padding: 20px 0px;
+    font-size: 20px;
+    background-color: white;
+  }

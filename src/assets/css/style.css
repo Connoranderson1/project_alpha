@@ -1,17 +1,24 @@
 // Style time
 
 
+h1 {
+    text-align: center;
+    font-size: 60pt;
+    font-family: "Times New Roman";
+
 body {
+    font-size: 22;
     font-family: Arial;
     background-color: White;
 }
 
 button {
-    background-color: black;
-    padding: 2px 2 px;
+    background-color: blue;
+    padding: 2px 2px;
 }
 
 #results {
     font-family: Arial;
     font-size: Small;
 }
+

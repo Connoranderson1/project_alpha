@@ -1,0 +1,17 @@
+// Style time
+
+
+body {
+    font-family: Arial;
+    background-color: White;
+}
+
+button {
+    background-color: black;
+    padding: 2px 2 px;
+}
+
+#results {
+    font-family: Arial;
+    font-size: Small;
+}

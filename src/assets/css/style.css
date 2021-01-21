@@ -10,12 +10,12 @@ body {
 button {
     background-color: blue;
     padding: 12px 0px;
-    font-size: 45px;
+    font-size: 25px;
 }
 
 #results {
     font-family: Arial;
-    font-size: Small;
+    font-size: 15px;
 }
 
 h1 {
@@ -37,3 +37,4 @@ h1 {
     font-size: 20px;
     background-color: white;
   }
+
